@@ -80,35 +80,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <iframe src="https://player.vimeo.com/video/648554618" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
-## section 5
-
-### 2 Checkout Step Tracker Page
-<iframe src="https://player.vimeo.com/video/656376104" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 3 Checking AUTH On Checkout
-<iframe src="https://player.vimeo.com/video/656376471" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 4 Checkout Step-1
-<iframe src="https://player.vimeo.com/video/656377330" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 5 Resolving Firebase Analytics Problem
-<iframe src="https://player.vimeo.com/video/656378216" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 6 Write Shipping Form
-<iframe src="https://player.vimeo.com/video/656379212" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 7 Complete Shipping Form
-<iframe src="https://player.vimeo.com/video/656380815" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 8 Write Shipping Total Component
-<iframe src="https://player.vimeo.com/video/656381453" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 9 Completing Shipping Component
-<iframe src="https://player.vimeo.com/video/656381920" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 10 Finalizing Our ReactRedux Project
-<iframe src="https://player.vimeo.com/video/656384139" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
 
 ### Markdown
 
