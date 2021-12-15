@@ -49,17 +49,20 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## section 3
 
-### 3 Checking AUTH On Checkout
-<iframe src="https://player.vimeo.com/video/656376471" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 Debugging Code
+<iframe src="https://player.vimeo.com/video/648553909" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 4 Checkout Step-1
-<iframe src="https://player.vimeo.com/video/656377330" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 2 The Process
+<iframe src="https://player.vimeo.com/video/648554000" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 5 Resolving Firebase Analytics Problem
-<iframe src="https://player.vimeo.com/video/656378216" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 3 More Breakpoint Types
+<iframe src="https://player.vimeo.com/video/648554057" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 6 Write Shipping Form
-<iframe src="https://player.vimeo.com/video/656379212" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 4 Working in the Console
+<iframe src="https://player.vimeo.com/video/648554140" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+## sectioin 4
 
 ### 7 Complete Shipping Form
 <iframe src="https://player.vimeo.com/video/656380815" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
