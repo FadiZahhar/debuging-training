@@ -62,22 +62,25 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <iframe src="https://player.vimeo.com/video/648554140" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
-## sectioin 4
+## section 4
 
-### 7 Complete Shipping Form
-<iframe src="https://player.vimeo.com/video/656380815" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 More Chrome Dev Tools
+<iframe src="https://player.vimeo.com/video/648554266" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 8 Write Shipping Total Component
-<iframe src="https://player.vimeo.com/video/656381453" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 2 Performance Tools
+<iframe src="https://player.vimeo.com/video/648554317" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 9 Completing Shipping Component
-<iframe src="https://player.vimeo.com/video/656381920" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 3 Network Tools
+<iframe src="https://player.vimeo.com/video/648554414" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 10 Finalizing Our ReactRedux Project
-<iframe src="https://player.vimeo.com/video/656384139" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 4 Memory Tools
+<iframe src="https://player.vimeo.com/video/648554521" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 1 Checkout Pagination Page
-<iframe src="https://player.vimeo.com/video/656375446" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 5 Wrap Up
+<iframe src="https://player.vimeo.com/video/648554618" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+## section 5
 
 ### 2 Checkout Step Tracker Page
 <iframe src="https://player.vimeo.com/video/656376104" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
