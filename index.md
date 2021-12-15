@@ -28,23 +28,26 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## section 2
 
-### 7 Complete Shipping Form
-<iframe src="https://player.vimeo.com/video/656380815" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 Debugging Concepts
+<iframe src="https://player.vimeo.com/video/648553378" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 8 Write Shipping Total Component
-<iframe src="https://player.vimeo.com/video/656381453" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 2 Breakpoints
+<iframe src="https://player.vimeo.com/video/648553531" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 9 Completing Shipping Component
-<iframe src="https://player.vimeo.com/video/656381920" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 3 Call Stacks & More
+<iframe src="https://player.vimeo.com/video/648553677" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 10 Finalizing Our ReactRedux Project
-<iframe src="https://player.vimeo.com/video/656384139" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 4 Logging
+<iframe src="https://player.vimeo.com/video/648553719" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 1 Checkout Pagination Page
-<iframe src="https://player.vimeo.com/video/656375446" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 5 Source Maps
+<iframe src="https://player.vimeo.com/video/648553781" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 2 Checkout Step Tracker Page
-<iframe src="https://player.vimeo.com/video/656376104" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 6 The Console
+<iframe src="https://player.vimeo.com/video/648553846" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+## section 3
 
 ### 3 Checking AUTH On Checkout
 <iframe src="https://player.vimeo.com/video/656376471" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
