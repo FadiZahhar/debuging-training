@@ -4,6 +4,103 @@ You can use the [editor on GitHub](https://github.com/FadiZahhar/debuging-traini
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+## section 1
+
+### 1 Starting with JavaScript - Debugging
+<iframe src="https://player.vimeo.com/video/648553011" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 What We'll Learn
+<iframe src="https://player.vimeo.com/video/648553063" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3 What is Debugging
+<iframe src="https://player.vimeo.com/video/648553132" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4 JavaScript Debugging Tools
+<iframe src="https://player.vimeo.com/video/648553184" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 5 Chrome Dev Tools
+<iframe src="https://player.vimeo.com/video/648553234" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 6 Debug-able Code
+<iframe src="https://player.vimeo.com/video/648553308" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+## section 2
+
+### 7 Complete Shipping Form
+<iframe src="https://player.vimeo.com/video/656380815" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 8 Write Shipping Total Component
+<iframe src="https://player.vimeo.com/video/656381453" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 9 Completing Shipping Component
+<iframe src="https://player.vimeo.com/video/656381920" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 10 Finalizing Our ReactRedux Project
+<iframe src="https://player.vimeo.com/video/656384139" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 1 Checkout Pagination Page
+<iframe src="https://player.vimeo.com/video/656375446" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 Checkout Step Tracker Page
+<iframe src="https://player.vimeo.com/video/656376104" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3 Checking AUTH On Checkout
+<iframe src="https://player.vimeo.com/video/656376471" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4 Checkout Step-1
+<iframe src="https://player.vimeo.com/video/656377330" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 5 Resolving Firebase Analytics Problem
+<iframe src="https://player.vimeo.com/video/656378216" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 6 Write Shipping Form
+<iframe src="https://player.vimeo.com/video/656379212" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 7 Complete Shipping Form
+<iframe src="https://player.vimeo.com/video/656380815" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 8 Write Shipping Total Component
+<iframe src="https://player.vimeo.com/video/656381453" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 9 Completing Shipping Component
+<iframe src="https://player.vimeo.com/video/656381920" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 10 Finalizing Our ReactRedux Project
+<iframe src="https://player.vimeo.com/video/656384139" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 1 Checkout Pagination Page
+<iframe src="https://player.vimeo.com/video/656375446" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 Checkout Step Tracker Page
+<iframe src="https://player.vimeo.com/video/656376104" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3 Checking AUTH On Checkout
+<iframe src="https://player.vimeo.com/video/656376471" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4 Checkout Step-1
+<iframe src="https://player.vimeo.com/video/656377330" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 5 Resolving Firebase Analytics Problem
+<iframe src="https://player.vimeo.com/video/656378216" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 6 Write Shipping Form
+<iframe src="https://player.vimeo.com/video/656379212" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 7 Complete Shipping Form
+<iframe src="https://player.vimeo.com/video/656380815" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 8 Write Shipping Total Component
+<iframe src="https://player.vimeo.com/video/656381453" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 9 Completing Shipping Component
+<iframe src="https://player.vimeo.com/video/656381920" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 10 Finalizing Our ReactRedux Project
+<iframe src="https://player.vimeo.com/video/656384139" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
